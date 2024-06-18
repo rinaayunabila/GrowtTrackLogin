@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Growth Track</string>
+    <string name="app_names">STORY APP</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="get_started">Get Started</string>
+    <string name="name">Name</string>
+    <string name="hint_name">Enter your name</string>
+    <string name="logout">Logout</string>
+    <string name="warning_email">Must be in email format</string>
+    <string name="warning_password">Minimum 8 Characters</string>
+    <string name="retry">Retry</string>
+    <string name="description">Enter a description for the Story</string>
+    <string name="story_description">Story Description</string>
+    <string name="signin_description">Welcome to Stroy App by Rina</string>
+    <string name="signin_description2">Share your story here</string>
+    <string name="upload_story">Upload Story</string>
+    <string name="or">Or</string>
+    <string name="map">Map</string>
+    <string name="add_story">Add Story</string>
+    <string name="add">Add</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="dont_have_an_account">Dont have an account?</string>
+    <string name="username">Username</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="title_menu_1">Welcome</string>
+    <string name="title_menu_2">Measuring Stunting</string>
+    <string name="title_menu_3">Recommendations</string>
+    <string name="desc_menu_1">Welcome, together we can prevent stunting for a healthier future for children!</string>
+    <string name="desc_menu_2">Quickly measure your childs growth to see if there are signs of stunting.</string>
+    <string name="desc_menu_3">If stunting is detected, we will provide appropriate food recommendations for your child!</string>
+
+</resources>
